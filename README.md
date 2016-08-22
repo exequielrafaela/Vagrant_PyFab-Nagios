@@ -10,6 +10,10 @@ http://www.binbash.com.ar/os/gnu-linux/ubuntu-1/nagios-4-ubuntu-14-04
 
 http://nagios-plugins.org/doc/man/check_http.html
 
+### Screenshot
+
+![alt tag](https://github.com/exequielrafaela/Vagrant_PyFab-Nagios/blob/master/images/Nagios_web-admin.png)
+
 ### Consider:
 
   That check_nrpe looks up the command given in it’s argument locally in which is defined the name of the command that should be configured on the remote host in /etc/nagios/nrpe_local.cfg.
