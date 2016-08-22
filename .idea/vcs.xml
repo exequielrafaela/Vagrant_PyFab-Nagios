@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../Vagrant_LinuxLab3 (copy)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Vagrant_PyFab-Bind9-Apache" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Vagrant_PyFab-Kali-MIM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Vagrant_PyFab-LXD" vcs="Git" />
+  </component>
+</project>

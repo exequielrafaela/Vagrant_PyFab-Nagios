@@ -1,0 +1,1 @@
+{"virtualbox":{"/usr/local/nagios/etc":{"create":true,"guestpath":"/usr/local/nagios/etc","hostpath":"/home/delivery/vagrant_projects/Vagrant_PyFab-Nagios/server","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/delivery/vagrant_projects/Vagrant_PyFab-Nagios","disabled":false,"__vagrantfile":true}}}

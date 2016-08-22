@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Vagrant_PyFab-Bind9-Apache/.idea/Vagrant_PyFab-Bind9-Apache.iml" filepath="$PROJECT_DIR$/../Vagrant_PyFab-Bind9-Apache/.idea/Vagrant_PyFab-Bind9-Apache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Vagrant_PyFab-Kali-MIM/.idea/Vagrant_PyFab-Kali-MIM.iml" filepath="$PROJECT_DIR$/../Vagrant_PyFab-Kali-MIM/.idea/Vagrant_PyFab-Kali-MIM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Vagrant_PyFab-LXD/.idea/Vagrant_PyFab-LXD.iml" filepath="$PROJECT_DIR$/../Vagrant_PyFab-LXD/.idea/Vagrant_PyFab-LXD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Vagrant_PyFab-Nagios.iml" filepath="$PROJECT_DIR$/.idea/Vagrant_PyFab-Nagios.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/examples/.idea/examples.iml" filepath="$USER_HOME$/PycharmProjects/examples/.idea/examples.iml" />
+    </modules>
+  </component>
+</project>
