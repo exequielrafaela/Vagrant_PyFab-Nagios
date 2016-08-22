@@ -115,7 +115,7 @@ def cl():
         print colored('##########################', 'blue')
 
         sudo('apt-get update')
-        sudo('apt-get install -y libssl-dev vsftpd')
+        sudo('apt-get install -y libssl-dev vsftpd apache2')
         sudo('apt-get -y install build-essential')
 
         run('if [ ! -f "/home/vagrant/nagios-plugins-2.1.1.tar.gz" ]; then '
