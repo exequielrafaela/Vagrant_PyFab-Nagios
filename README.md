@@ -6,6 +6,8 @@ http://www.binbash.com.ar/virtualization/vagrant/vagrant-bvox-nagios-linux
 
 http://www.binbash.com.ar/os/gnu-linux/ubuntu-1/nagios-4-ubuntu-14-04
 
+NOTE: Remember to check the "Doc" folder in the repository.
+
 ### Useful URLS:
 
 http://nagios-plugins.org/doc/man/check_http.html
